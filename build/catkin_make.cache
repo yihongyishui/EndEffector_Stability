@@ -1,0 +1,2 @@
+example:irb_120_4:sggg
+-DCATKIN_DEVEL_PREFIX=/home/sjtu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sjtu/catkin_ws/install -G Unix Makefiles

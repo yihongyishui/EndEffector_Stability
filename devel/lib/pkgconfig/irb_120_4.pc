@@ -1,0 +1,8 @@
+prefix=/home/sjtu/catkin_ws/devel
+
+Name: irb_120_4
+Description: Description of irb_120_4
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/sjtu/catkin_ws/devel/lib 
+Requires: 

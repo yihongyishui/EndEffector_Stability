@@ -1,0 +1,8 @@
+prefix=/home/sjtu/catkin_ws/install
+
+Name: sggg
+Description: Description of sggg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sjtu/catkin_ws/install/lib 
+Requires: 
